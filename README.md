@@ -8,9 +8,10 @@
   - [Indrodução a criação de websites com HTML5 e CSS3](https://github.com/flavioavds/meus-certificados/blob/master/html-e-css.pdf)
   - [Indroducao Engenharia De Dados](https://github.com/flavioavds/meus-certificados/blob/master/indroducao-engenharia-de-dados.pdf)
   - [Logica De Programacao](https://github.com/flavioavds/meus-certificados/blob/master/logica-de-programacao.pdf)
+  - [Programação para Internet com JavaScript](https://github.com/flavioavds/meus-certificados/blob/master/Programacao-para-internet-com-JavaScript.pdf)
   
  
  # 🧑‍💻 Novos certificados logo serão adicionados. Possuo outros
  
  
- ### Autor 👨‍🎓 Flavio Augusto 
+ ###### Autor 👨‍🎓 Flavio Augusto 
