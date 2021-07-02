@@ -9,6 +9,8 @@
   - [Indroducao Engenharia De Dados](https://github.com/flavioavds/meus-certificados/blob/master/indroducao-engenharia-de-dados.pdf)
   - [Logica De Programacao](https://github.com/flavioavds/meus-certificados/blob/master/logica-de-programacao.pdf)
   - [Programação para Internet com JavaScript](https://github.com/flavioavds/meus-certificados/blob/master/Programacao-para-internet-com-JavaScript.pdf)
+  - [Recriando pagina NETFLIX](https://github.com/flavioavds/meus-certificados/blob/master/Recriando-pagina-do-Netflix.pdf)
+  - [Criando Sites com BOOTSTRAP](https://github.com/flavioavds/meus-certificados/blob/master/Construido-paginas-internet-BOOTSTRAP.pdf)
   
  
  # 🧑‍💻 Novos certificados logo serão adicionados. Possuo outros
