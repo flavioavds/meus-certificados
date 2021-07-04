@@ -11,6 +11,8 @@
   - [Programação para Internet com JavaScript](https://github.com/flavioavds/meus-certificados/blob/master/Programacao-para-internet-com-JavaScript.pdf)
   - [Recriando pagina NETFLIX](https://github.com/flavioavds/meus-certificados/blob/master/Recriando-pagina-do-Netflix.pdf)
   - [Criando Sites com BOOTSTRAP](https://github.com/flavioavds/meus-certificados/blob/master/Construido-paginas-internet-BOOTSTRAP.pdf)
+  - [Criando o Jogo da Cobrinha](https://github.com/flavioavds/meus-certificados/blob/master/Criando%20Jogo%20Cobrinha.pdf)
+  - [HTML Web Developer](https://github.com/flavioavds/meus-certificados/blob/master/HTML%20Web%20Developer.pdf)
   
  
  # 🧑‍💻 Novos certificados logo serão adicionados. Possuo outros
