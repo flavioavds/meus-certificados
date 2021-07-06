@@ -13,6 +13,7 @@
   - [Criando Sites com BOOTSTRAP](https://github.com/flavioavds/meus-certificados/blob/master/Construido-paginas-internet-BOOTSTRAP.pdf)
   - [Criando o Jogo da Cobrinha](https://github.com/flavioavds/meus-certificados/blob/master/Criando%20Jogo%20Cobrinha.pdf)
   - [HTML Web Developer](https://github.com/flavioavds/meus-certificados/blob/master/HTML%20Web%20Developer.pdf)
+  - [Fundamentos da Arquitetura de Sistema](https://github.com/flavioavds/meus-certificados/blob/master/Fundamentos%20Arquitetura%20de%20Sistema.pdf)
   
  
  # 🧑‍💻 Novos certificados logo serão adicionados. Possuo outros
